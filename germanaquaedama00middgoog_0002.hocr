@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./germanaquaedama00middgoog_0002.png"; bbox 0 0 5212 6732; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 986 3249 1457 3314">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 986 3249 1457 3314">
+     <span class='ocr_line' id='line_1_1' title="bbox 986 3249 1457 3314; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 986 3249 1308 3312; x_wconf 77' lang='lat' dir='ltr'>CONSTANTIUS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1328 3250 1457 3314; x_wconf 87' lang='lat' dir='ltr'>FUND</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 905 3381 1539 3719">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 905 3381 1539 3719">
+     <span class='ocr_line' id='line_1_2' title="bbox 1120 3381 1325 3451; baseline 0.005 -1"><span class='ocrx_word' id='word_1_3' title='bbox 1120 3381 1325 3451; x_wconf 63' lang='lat' dir='ltr'><strong>Baquudwdby</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 905 3463 1539 3564; baseline 0.005 -28"><span class='ocrx_word' id='word_1_4' title='bbox 905 3465 1124 3564; x_wconf 83' lang='lat' dir='ltr'><strong>Evangelinus</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1135 3463 1347 3562; x_wconf 77' lang='lat' dir='ltr'><strong>Apostolides</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1357 3465 1539 3564; x_wconf 77' lang='lat' dir='ltr'><strong>sophocles</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1047 3584 1397 3719; baseline 0.003 -91"><span class='ocrx_word' id='word_1_7' title='bbox 1047 3584 1397 3719; x_wconf 47' lang='lat' dir='ltr'>Tmffiwomk</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1016 3801 1429 3924">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1016 3801 1429 3924">
+     <span class='ocr_line' id='line_1_5' title="bbox 1016 3801 1429 3924; baseline 0.002 -69"><span class='ocrx_word' id='word_1_8' title='bbox 1016 3803 1065 3856; x_wconf 80' lang='lat' dir='ltr'>For</span> <span class='ocrx_word' id='word_1_9' title='bbox 1076 3801 1324 3924; x_wconf 43' lang='lat' dir='ltr'>&amp;umenti</span> <span class='ocrx_word' id='word_1_10' title='bbox 1335 3802 1429 3856; x_wconf 70' lang='lat' dir='ltr'>Ambic</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2610 6724">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2610 6724">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2610 6724; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 2610 6724; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
